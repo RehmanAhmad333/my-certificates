@@ -1,2 +1,2 @@
 # my-certificates
-Description: My professional certificates
+My professional certificates
