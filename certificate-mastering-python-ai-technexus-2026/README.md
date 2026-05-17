@@ -147,7 +147,7 @@ This 4-month professional training program covered a **complete AI development s
 
 ## 🔗 Verification
 
-- **Certificate PDF:** [View Certificate](./certificate.pdf)
+- **Certificate PDF:** [View Certificate](https://github.com/RehmanAhmad333/my-certificates/blob/967f515082bef2043fa7b1f396189689a1cc830e/certificate-mastering-python-ai-technexus-2026/Certificate.pdf)
 - **Certificate ID:** `CUIN# 039973`
 - **Verify at:** [www.technexusvu.com/verify](https://www.technexusvu.com/verify) (QR code on certificate)
 - **Institute:** TechNexus Virtual University
