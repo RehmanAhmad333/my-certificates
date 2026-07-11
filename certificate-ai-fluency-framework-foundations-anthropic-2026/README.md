@@ -1,15 +1,15 @@
-
 # AI Fluency: Framework & Foundations  
 **Certificate of Completion**  
-*Anthropic* | 2026
+*Anthropic* | July 2026
 
 
 ### 📜 About the Certification
 
-I have successfully completed the **AI Fluency: Framework & Foundations** program by **Anthropic** — a prestigious course focused on building strong conceptual and practical foundations in modern AI systems, frameworks, and responsible AI practices.
+I have successfully completed **AI Fluency: Framework & Foundations** — a specialized program by **Anthropic** focused on developing high-level fluency in working with modern Generative AI systems.
 
-This certification strengthens my ability to work with advanced AI architectures, prompting strategies, and production-grade AI applications.
- 
+The program equipped me with Anthropic’s proprietary **4D AI Fluency Framework** (Description, Discernment, Delegation, and Diligence), enabling structured, reliable, and effective collaboration with AI models in real-world scenarios.
+
+---
 
 ### 🏆 Certification Details
 
@@ -18,32 +18,38 @@ This certification strengthens my ability to work with advanced AI architectures
 - **Recipient**: Rehman Ahmad Cheema
 - **Completion Date**: July 2026
 
+---
 
 ### 🎯 Key Learning Outcomes
 
-- Deep understanding of modern AI frameworks and foundational models
-- Advanced prompt engineering and LLM orchestration techniques
-- Responsible AI development and safety principles (Anthropic's core focus)
-- Practical knowledge of building reliable AI-powered applications
-- Strong conceptual clarity on transformer architectures, alignment, and evaluation
+- Mastered the **4D Fluency Framework** for systematic AI interaction and project execution
+- Developed deep expertise in **Generative AI fundamentals**, capabilities, limitations, and responsible usage
+- Advanced **prompt engineering** techniques including Chain-of-Thought and structured prompting
+- Built strong command over the **Description-Discernment Loop** for creating accurate and reliable AI outputs
+- Learned effective **AI Delegation** strategies and project planning methodologies
+- Strengthened **Diligence** practices essential for production-grade AI development
+- Gained practical knowledge of Responsible AI principles and safety considerations
 
+---
 
 ### 🛠️ Skills Strengthened
 
-- **AI Frameworks & Tools**
-- Large Language Models (LLMs)
-- Prompt Engineering & Chain-of-Thought
-- Responsible AI Practices
-- AI System Design & Evaluation
+- **4D AI Fluency Framework** (Description, Discernment, Delegation, Diligence)
+- Advanced Prompt Engineering & Structured Reasoning
+- Generative AI Architecture & Best Practices
+- AI Output Evaluation and Quality Control
+- Responsible AI Development & Safety
+- AI Workflow Design and Delegation Strategies
 
+---
 
 ### 🔗 Connect With Me
 
-- **LinkedIn**: [Rehman Ahmad Cheema](www.linkedin.com/in/rehman-ahmad-cheema-9a5b17384)
-- **GitHub**: [Rehman_Ahmad](https://github.com/RehmanAhmad333)
+- **LinkedIn**: [Rehman Ahmad Cheema](https://www.linkedin.com/in/rehman-ahmad-cheema-9a5b17384)
+- **GitHub**: [RehmanAhmad333](https://github.com/RehmanAhmad333)
 - **Portfolio**: [rehmanahmad.online](https://www.rehmanahmad.online)
 
-
+---
 
 **Made with ❤️ by Rehman Ahmad Cheema**  
-*AI/ML Engineer | Backend Developer | Computer Vision Enthusiast*
+*AI/ML Engineer | Backend Developer | Computer Vision Specialist*
